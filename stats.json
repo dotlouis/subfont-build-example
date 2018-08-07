@@ -1,0 +1,230 @@
+{
+  "assetsByChunkName": {
+    "path---moments-catering-cocktail": [
+      "path---moments-catering-cocktail-bf610fae88f1e2ace921.js",
+      "path---moments-catering-cocktail-bf610fae88f1e2ace921.js.map"
+    ],
+    "path---moments-traiteur-pot-de-depart": [
+      "path---moments-traiteur-pot-de-depart-48831c8c6c566c1edef4.js",
+      "path---moments-traiteur-pot-de-depart-48831c8c6c566c1edef4.js.map"
+    ],
+    "path---moments-traiteur-seminaire": [
+      "path---moments-traiteur-seminaire-0f585b1e849823029ac2.js",
+      "path---moments-traiteur-seminaire-0f585b1e849823029ac2.js.map"
+    ],
+    "path---moments-traiteur-gouter": [
+      "path---moments-traiteur-gouter-bb86bc451ffd32837de9.js",
+      "path---moments-traiteur-gouter-bb86bc451ffd32837de9.js.map"
+    ],
+    "path---moments-catering-buffet": [
+      "path---moments-catering-buffet-22e026e78ceea471918f.js",
+      "path---moments-catering-buffet-22e026e78ceea471918f.js.map"
+    ],
+    "path---moments-catering-apero": [
+      "path---moments-catering-apero-8b5672017d6f37cfeedf.js",
+      "path---moments-catering-apero-8b5672017d6f37cfeedf.js.map"
+    ],
+    "path---moments-catering-dejeuner": [
+      "path---moments-catering-dejeuner-17b92df57e391d4778f7.js",
+      "path---moments-catering-dejeuner-17b92df57e391d4778f7.js.map"
+    ],
+    "component---src-landings-moments-jsx": [
+      "component---src-landings-moments-jsx-f6c113ffd6ea587b9025.js",
+      "component---src-landings-moments-jsx-f6c113ffd6ea587b9025.js.map"
+    ],
+    "path---moments-catering-evenements-associations": [
+      "path---moments-catering-evenements-associations-ec008477e43ca3d0c122.js",
+      "path---moments-catering-evenements-associations-ec008477e43ca3d0c122.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---moments-traiteur-seminaire-ete-entreprise": [
+      "path---moments-traiteur-seminaire-ete-entreprise-7a64f76d6a11ecb0c99e.js",
+      "path---moments-traiteur-seminaire-ete-entreprise-7a64f76d6a11ecb0c99e.js.map"
+    ],
+    "component---src-pages-nos-artisans-jsx": [
+      "component---src-pages-nos-artisans-jsx-99d252c48427a8ba61ff.js",
+      "component---src-pages-nos-artisans-jsx-99d252c48427a8ba61ff.js.map"
+    ],
+    "component---src-pages-commande-jsx": [
+      "component---src-pages-commande-jsx-640d1616d02a83dfc4aa.js",
+      "component---src-pages-commande-jsx-640d1616d02a83dfc4aa.js.map"
+    ],
+    "path---moments-traiteur-paris": [
+      "path---moments-traiteur-paris-98636ceed62f32aa7e8a.js",
+      "path---moments-traiteur-paris-98636ceed62f32aa7e8a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-37a419e465ec3a8f24c3.js",
+      "component---src-layouts-index-jsx-37a419e465ec3a8f24c3.js.map"
+    ],
+    "path---moments-catering-pot-de-depart": [
+      "path---moments-catering-pot-de-depart-ad81e06f4e0c95800b6d.js",
+      "path---moments-catering-pot-de-depart-ad81e06f4e0c95800b6d.js.map"
+    ],
+    "path---moments-traiteur-buffet": [
+      "path---moments-traiteur-buffet-0bb7f953a6ea566d0b42.js",
+      "path---moments-traiteur-buffet-0bb7f953a6ea566d0b42.js.map"
+    ],
+    "path---moments-catering-pas-cher": [
+      "path---moments-catering-pas-cher-206c373e9fd0373efce8.js",
+      "path---moments-catering-pas-cher-206c373e9fd0373efce8.js.map"
+    ],
+    "component---src-pages-cgv-jsx": [
+      "component---src-pages-cgv-jsx-75b8f7f65c504da4dc2e.js",
+      "component---src-pages-cgv-jsx-75b8f7f65c504da4dc2e.js.map"
+    ],
+    "path---moments-traiteur-cocktail": [
+      "path---moments-traiteur-cocktail-c7e54dfc669955106e97.js",
+      "path---moments-traiteur-cocktail-c7e54dfc669955106e97.js.map"
+    ],
+    "path---moments-catering-petit-dejeuner": [
+      "path---moments-catering-petit-dejeuner-ba65b5dd96bc1594f476.js",
+      "path---moments-catering-petit-dejeuner-ba65b5dd96bc1594f476.js.map"
+    ],
+    "path---moments-catering-lyon": [
+      "path---moments-catering-lyon-e23996f65f97b5ab1914.js",
+      "path---moments-catering-lyon-e23996f65f97b5ab1914.js.map"
+    ],
+    "path---moments-catering-haut-de-gamme": [
+      "path---moments-catering-haut-de-gamme-2b6ba86f75fc29f04139.js",
+      "path---moments-catering-haut-de-gamme-2b6ba86f75fc29f04139.js.map"
+    ],
+    "path---moments-traiteur-evenements-entreprise": [
+      "path---moments-traiteur-evenements-entreprise-15bd6db2ace73202732c.js",
+      "path---moments-traiteur-evenements-entreprise-15bd6db2ace73202732c.js.map"
+    ],
+    "path---moments-traiteur-pas-cher": [
+      "path---moments-traiteur-pas-cher-a45cf3ff5f6906167eb4.js",
+      "path---moments-traiteur-pas-cher-a45cf3ff5f6906167eb4.js.map"
+    ],
+    "path---legal": [
+      "path---legal-a0e39f21c11f6a62c5ab.js",
+      "path---legal-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---moments-traiteur-soiree-ete-entreprise": [
+      "path---moments-traiteur-soiree-ete-entreprise-36d74ee9f7901d5d0ebd.js",
+      "path---moments-traiteur-soiree-ete-entreprise-36d74ee9f7901d5d0ebd.js.map"
+    ],
+    "path---index": [
+      "path---index-a18cbe31c689dddf269b.js",
+      "path---index-a18cbe31c689dddf269b.js.map"
+    ],
+    "path---moments-traiteur-lyon": [
+      "path---moments-traiteur-lyon-6506ae0e43ebcb4bdc20.js",
+      "path---moments-traiteur-lyon-6506ae0e43ebcb4bdc20.js.map"
+    ],
+    "path---moments-traiteur-dejeuner": [
+      "path---moments-traiteur-dejeuner-28bd04c114b04c61d70e.js",
+      "path---moments-traiteur-dejeuner-28bd04c114b04c61d70e.js.map"
+    ],
+    "path---moments-traiteur-apero": [
+      "path---moments-traiteur-apero-435eb721243e1a69c1e3.js",
+      "path---moments-traiteur-apero-435eb721243e1a69c1e3.js.map"
+    ],
+    "component---src-pages-legal-jsx": [
+      "component---src-pages-legal-jsx-d4bbf3f29c53f5e6eb1d.js",
+      "component---src-pages-legal-jsx-d4bbf3f29c53f5e6eb1d.js.map"
+    ],
+    "path---moments-traiteur-soiree-entreprise": [
+      "path---moments-traiteur-soiree-entreprise-afd4a09ec862dce1d14b.js",
+      "path---moments-traiteur-soiree-entreprise-afd4a09ec862dce1d14b.js.map"
+    ],
+    "path---moments-catering-seminaire": [
+      "path---moments-catering-seminaire-52fe4fa628d0f6d36904.js",
+      "path---moments-catering-seminaire-52fe4fa628d0f6d36904.js.map"
+    ],
+    "path---moments-traiteur-evenements-associations": [
+      "path---moments-traiteur-evenements-associations-af62ce5a3abcbf0d1e04.js",
+      "path---moments-traiteur-evenements-associations-af62ce5a3abcbf0d1e04.js.map"
+    ],
+    "path---moments-traiteur-haut-de-gamme": [
+      "path---moments-traiteur-haut-de-gamme-6caca8cbba5836386db1.js",
+      "path---moments-traiteur-haut-de-gamme-6caca8cbba5836386db1.js.map"
+    ],
+    "commons": [
+      "commons-764c75f635d9df7459b4.js",
+      "commons-764c75f635d9df7459b4.js.map"
+    ],
+    "path---moments-catering-soiree-entreprise": [
+      "path---moments-catering-soiree-entreprise-282b2374fc9fa64a7c52.js",
+      "path---moments-catering-soiree-entreprise-282b2374fc9fa64a7c52.js.map"
+    ],
+    "path---moments-traiteur-reception-entreprise": [
+      "path---moments-traiteur-reception-entreprise-60ca3c174b07fb793e6f.js",
+      "path---moments-traiteur-reception-entreprise-60ca3c174b07fb793e6f.js.map"
+    ],
+    "component---src-pages-evenements-jsx": [
+      "component---src-pages-evenements-jsx-af0b754c0d5d6bdcf5fe.js",
+      "component---src-pages-evenements-jsx-af0b754c0d5d6bdcf5fe.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-comment-ca-marche-jsx": [
+      "component---src-pages-comment-ca-marche-jsx-f7f44e74b26e4fa218a7.js",
+      "component---src-pages-comment-ca-marche-jsx-f7f44e74b26e4fa218a7.js.map"
+    ],
+    "path---evenements": [
+      "path---evenements-d846bcafb1f98715c8b4.js",
+      "path---evenements-d846bcafb1f98715c8b4.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-f60a5c14769f72f80950.js",
+      "component---src-pages-404-jsx-f60a5c14769f72f80950.js.map"
+    ],
+    "path---moments-catering-evenements-entreprise": [
+      "path---moments-catering-evenements-entreprise-877cfb3654cd1c8cf86e.js",
+      "path---moments-catering-evenements-entreprise-877cfb3654cd1c8cf86e.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-94c609c55defae8b6b6a.js",
+      "component---src-pages-index-jsx-94c609c55defae8b6b6a.js.map"
+    ],
+    "path---moments-catering-paris": [
+      "path---moments-catering-paris-ecbfadfdd35d3c3f3799.js",
+      "path---moments-catering-paris-ecbfadfdd35d3c3f3799.js.map"
+    ],
+    "path---moments-traiteur-petit-dejeuner": [
+      "path---moments-traiteur-petit-dejeuner-0b813c524471d3273e39.js",
+      "path---moments-traiteur-petit-dejeuner-0b813c524471d3273e39.js.map"
+    ],
+    "app": [
+      "app-dbd2954e39e8072712f2.js",
+      "build-js-styles.css",
+      "app-dbd2954e39e8072712f2.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---cgv": [
+      "path---cgv-a0e39f21c11f6a62c5ab.js",
+      "path---cgv-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---comment-ca-marche": [
+      "path---comment-ca-marche-a0e39f21c11f6a62c5ab.js",
+      "path---comment-ca-marche-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---nos-artisans": [
+      "path---nos-artisans-11387c81cbe9e2c35839.js",
+      "path---nos-artisans-11387c81cbe9e2c35839.js.map"
+    ],
+    "path---moments-catering-reception-entreprise": [
+      "path---moments-catering-reception-entreprise-4e9efe3c643f7d9cdd7a.js",
+      "path---moments-catering-reception-entreprise-4e9efe3c643f7d9cdd7a.js.map"
+    ],
+    "path---moments-catering-gouter": [
+      "path---moments-catering-gouter-e73d089ec0c38527d0fe.js",
+      "path---moments-catering-gouter-e73d089ec0c38527d0fe.js.map"
+    ],
+    "path---commande": [
+      "path---commande-59345f46bb926e7a6818.js",
+      "path---commande-59345f46bb926e7a6818.js.map"
+    ]
+  }
+}
